@@ -1,0 +1,1071 @@
+text_id,begin,end,chunk,entity
+1,78,90,Breast Cancer,PROBLEM
+1,140,143,lump,PROBLEM
+1,306,318,breast cancer,PROBLEM
+1,393,424,Lump in the upper outer quadrant,PROBLEM
+1,490,497,The lump,PROBLEM
+1,502,509,painless,PROBLEM
+1,515,536,the skin over the lump,PROBLEM
+1,564,574,any redness,PROBLEM
+1,577,582,warmth,PROBLEM
+1,585,589,edema,PROBLEM
+1,595,610,nipple discharge,PROBLEM
+1,625,635,a mammogram,TEST
+1,667,672,a mass,PROBLEM
+1,736,755,an excisional biopsy,TEST
+1,760,767,the mass,PROBLEM
+1,773,808,subsequently axillary nodal sampling,PROBLEM
+1,822,850,Infiltrating ductal carcinoma,PROBLEM
+1,853,869,Estrogen receptor,TEST
+1,875,895,Progesterone receptor,TEST
+1,901,916,S-phase fraction,TEST
+1,922,930,Her 2 neu,TEST
+1,989,990,N0,PROBLEM
+1,1013,1022,lumpectomy,TREATMENT
+1,1024,1066,left breast and Left axillary node sampling,TREATMENT
+1,1135,1148,Osteoarthritis,PROBLEM
+1,1163,1166,ASHD,PROBLEM
+1,1168,1179,for 10 years,DURATION
+1,1182,1194,Kidney stones,PROBLEM
+1,1244,1259,Last rectal exam,TEST
+1,1273,1277,10/99,DATE
+1,1280,1293,Last mammogram,TEST
+1,1307,1311,12/99,DATE
+1,1319,1336,gynecological exam,TEST
+1,1350,1354,10/99,DATE
+1,1357,1370,Last PAP smear,TEST
+1,1384,1388,10/99,DATE
+1,1391,1406,Last chest x-ray,TEST
+1,1420,1424,10/99,DATE
+1,1451,1458,10/99-X3,DATE
+1,1466,1478,sigmoidoscopy,TEST
+1,1492,1495,1998,DATE
+1,1503,1513,colonoscopy,TEST
+1,1527,1530,1996,DATE
+1,1560,1570,flu vaccine,TREATMENT
+1,1585,1588,1999,DATE
+1,1596,1612,pneumonia vaccine,TREATMENT
+1,1627,1630,1996,DATE
+1,1668,1669,85,AGE
+1,1683,1706,cerebrovascular accident,PROBLEM
+1,1709,1715,stroke),PROBLEM
+1,1721,1732,hypertension,PROBLEM
+1,1753,1755,CHF,PROBLEM
+1,1761,1769,emphysema,PROBLEM
+1,1795,1796,78,AGE
+1,1845,1846,54,AGE
+1,1872,1883,Appendectomy,TREATMENT
+1,1886,1910,Biopsy of the left breast,TEST
+1,1927,1941,Cholecystectomy,TREATMENT
+1,2015,2026,Smoked 1 PPD,PROBLEM
+1,2171,2190,known drug allergies,PROBLEM
+1,2214,2220,Aspirin,TREATMENT
+1,2222,2222,1,DOSAGE
+1,2224,2226,tab,FORM
+1,2230,2236,1 / day,DOSAGE
+1,2239,2246,Calan SR,TREATMENT
+1,2248,2253,120 mg,STRENGTH
+1,2258,2264,1 / day,DOSAGE
+1,2348,2352,fever,PROBLEM
+1,2355,2360,chills,PROBLEM
+1,2363,2374,night sweats,PROBLEM
+1,2380,2390,weight loss,PROBLEM
+1,2423,2434,any problems,PROBLEM
+1,2504,2511,problems,PROBLEM
+1,2578,2603,any respiratory complaints,PROBLEM
+1,2614,2618,cough,PROBLEM
+1,2621,2639,shortness of breath,PROBLEM
+1,2642,2651,chest pain,PROBLEM
+1,2654,2661,wheezing,PROBLEM
+1,2664,2673,hemoptysis,PROBLEM
+1,2697,2731,Chest pain in the retrosternal area,PROBLEM
+1,2734,2756,Occasional anginal pain,PROBLEM
+1,2801,2809,tightness,PROBLEM
+1,2861,2875,any palpitation,PROBLEM
+1,2878,2884,syncope,PROBLEM
+1,2887,2914,paroxysmal nocturnal dyspnea,PROBLEM
+1,2920,2928,orthopnea,PROBLEM
+1,2964,2973,any nausea,PROBLEM
+1,2976,2983,vomiting,PROBLEM
+1,2986,2999,abdominal pain,PROBLEM
+1,3002,3010,dysphagia,PROBLEM
+1,3015,3041,any altered bowel movements,PROBLEM
+1,3066,3094,any genito-urinary complaints,PROBLEM
+1,3133,3162,any musculoskeletal complaints,PROBLEM
+1,3194,3248,"any focal motor, sensory or other neurological symptoms",PROBLEM
+1,3425,3431,slender,PROBLEM
+1,3434,3455,ECOG performance score,TEST
+1,3467,3514,"Examination of head, eyes, ears, nose and throat",TEST
+1,3570,3633,"palpable adenopathy in the inguinal, axillary, or cervical areas",PROBLEM
+1,3695,3705,any murmurs,PROBLEM
+1,3710,3716,gallops,PROBLEM
+1,3789,3805,slight induration,PROBLEM
+1,3820,3833,recent surgery,TREATMENT
+1,3923,3927,rales,PROBLEM
+1,3932,3938,rhonchi,PROBLEM
+1,3947,3954,dullness,PROBLEM
+1,3959,3968,percussion,TEST
+1,4016,4025,non-tender,PROBLEM
+1,4040,4054,palpable masses,PROBLEM
+1,4060,4077,hepatosplenomegaly,PROBLEM
+1,4108,4124,Peripheral pulses,TEST
+1,4150,4154,edema,PROBLEM
+1,4157,4164,cyanosis,PROBLEM
+1,4167,4174,clubbing,PROBLEM
+1,4179,4202,significant varicosities,PROBLEM
+1,4208,4219,skin lesions,PROBLEM
+1,4265,4278,joint swelling,PROBLEM
+1,4281,4295,bone tenderness,PROBLEM
+1,4300,4316,muscle tenderness,PROBLEM
+1,4348,4377,Brief neurological examination,TEST
+1,4435,4468,gross sensory or other abnormality,PROBLEM
+1,4494,4502,Mammogram,TEST
+1,4505,4510,A mass,PROBLEM
+1,4635,4654,Liver function tests,TEST
+1,4665,4667,CBC,TEST
+1,4674,4677,diff,TEST
+1,4685,4687,WBC,TEST
+1,4700,4709,Hemoglobin,TEST
+1,4728,4736,Platelets,TEST
+1,4738,4749,250000 / cmm,STRENGTH
+1,4767,4774,1/4/2000,DATE
+1,4802,4829,Carcinoma of the left breast,PROBLEM
+1,4849,4868,Upper outer quadrant,PROBLEM
+1,4889,4917,Infiltrating ductal carcinoma,PROBLEM
+1,4924,4933,lumpectomy,TREATMENT
+1,4939,4962,axillary node dissection,TREATMENT
+1,5083,5091,treatment,TREATMENT
+1,5120,5128,Tamoxifen,TREATMENT
+1,5168,5183,Hormonal therapy,TREATMENT
+1,5190,5198,Tamoxifen,TREATMENT
+1,5204,5220,Radiation therapy,TREATMENT
+1,5281,5284,labs,TEST
+1,5360,5362,CBC,TEST
+1,5407,5410,CMP),TEST
+1,5416,5435,liver function panel,TEST
+1,5438,5440,LFT,TEST
+1,5444,5465,MEDICATIONS PRESCRIBED,TREATMENT
+1,5468,5475,Nolvadex,TREATMENT
+1,5477,5481,20 mg,STRENGTH
+1,5484,5495,1 time a day,FREQUENCY
+1,5536,5548,William Smith,NAME
+2,104,127,Markedly elevated PT INR,PROBLEM
+2,146,153,Coumadin,TREATMENT
+2,173,181,vitamin K,TREATMENT
+2,210,231,iron-deficiency anemia,PROBLEM
+2,240,257,chronic blood loss,PROBLEM
+2,264,270,colitis,PROBLEM
+2,388,409,iron-deficiency anemia,PROBLEM
+2,418,435,chronic blood loss,PROBLEM
+2,442,448,colitis,PROBLEM
+2,464,477,her hematocrit,TEST
+2,494,514,intravenous (IV) iron,TREATMENT
+2,537,559,a total proctocolectomy,TREATMENT
+2,569,578,03/14/2007,DATE
+2,589,599,her colitis,PROBLEM
+2,663,680,multiple surgeries,TREATMENT
+2,686,692,removal,TREATMENT
+2,697,704,hematoma,PROBLEM
+2,741,755,anticoagulation,TREATMENT
+2,761,800,a right arm deep venous thrombosis (DVT),PROBLEM
+2,842,857,septic phlebitis,PROBLEM
+2,986,997,coagulopathy,PROBLEM
+2,1008,1014,surgery,TREATMENT
+2,1045,1061,a pelvic hematoma,PROBLEM
+2,1086,1118,vancomycin resistant enterococcus,PROBLEM
+2,1141,1160,multiple antibiotics,TREATMENT
+2,1178,1195,infectious disease,PROBLEM
+2,1212,1237,total parenteral nutrition,TREATMENT
+2,1240,1242,TPN,TREATMENT
+2,1271,1274,Labs,TEST
+2,1289,1307,a white blood count,TEST
+2,1317,1326,hemoglobin,TEST
+2,1334,1343,hematocrit,TEST
+2,1355,1363,platelets,TEST
+2,1376,1378,MCV,TEST
+2,1387,1399,Her platelets,TEST
+2,1411,1418,elevated,PROBLEM
+2,1453,1458,counts,TEST
+2,1556,1569,Her hematocrit,TEST
+2,1625,1641,White blood count,TEST
+2,1657,1658,PT,TEST
+2,1669,1685,markedly elevated,PROBLEM
+2,1710,1715,an INR,TEST
+2,1750,1757,Coumadin,TREATMENT
+2,1762,1771,05/31/2007,DATE
+2,1801,1809,vitamin K,TREATMENT
+2,1815,1821,the TPN,TREATMENT
+2,1835,1853,additional doses IV,TREATMENT
+2,1856,1861,The PT,TEST
+2,1914,1917,high,PROBLEM
+2,1932,1937,an INR,TEST
+2,1957,1959,PTT,TEST
+2,1988,1997,05/18/2007,DATE
+2,2026,2029,LFTs,TEST
+2,2041,2048,elevated,PROBLEM
+2,2051,2053,ALT,TEST
+2,2063,2065,AST,TEST
+2,2071,2073,GGT,TEST
+2,2080,2099,alkaline phosphatase,TEST
+2,2106,2116,albumin low,PROBLEM
+2,2126,2139,uric acid high,PROBLEM
+2,2149,2157,bilirubin,TEST
+2,2167,2169,LDH,TEST
+2,2183,2197,pre-albumin low,PROBLEM
+2,2206,2215,Creatinine,TEST
+2,2233,2269,an estimated creatinine clearance low,PROBLEM
+2,2280,2297,Other electrolytes,TEST
+2,2318,2320,B12,TEST
+2,2338,2347,05/19/2007,DATE
+2,2372,2381,Folic acid,TEST
+2,2395,2409,Iron saturation,TEST
+2,2438,2442,March,DATE
+2,2466,2473,Ferritin,TEST
+2,2540,2553,Erythropoietin,TREATMENT
+2,2555,2566,"45,000 units",STRENGTH
+2,2568,2577,every week,FREQUENCY
+2,2588,2597,05/16/2007,DATE
+2,2610,2624,heparin flushes,TREATMENT
+2,2627,2636,loperamide,TREATMENT
+2,2639,2644,niacin,TREATMENT
+2,2647,2658,pantoprazole,TREATMENT
+2,2661,2666,Diovan,TREATMENT
+2,2669,2685,Afrin nasal spray,TREATMENT
+2,2688,2698,caspofungin,TREATMENT
+2,2701,2710,daptomycin,TREATMENT
+2,2713,2721,Ertapenem,TREATMENT
+2,2724,2731,fentanyl,TREATMENT
+2,2736,2743,morphine,TREATMENT
+2,2745,2749,p.r.n,FREQUENCY
+2,2752,2755,pain,PROBLEM
+2,2762,2770,Compazine,TREATMENT
+2,2775,2780,Zofran,TREATMENT
+2,2782,2786,p.r.n,FREQUENCY
+2,2789,2794,nausea,PROBLEM
+2,2914,2922,epistaxis,PROBLEM
+2,2950,2962,nasal packing,TREATMENT
+2,3023,3033,temperature,TEST
+2,3044,3048,pulse,TEST
+2,3054,3065,respirations,TEST
+2,3071,3084,blood pressure,TEST
+2,3098,3102,pulse,TEST
+2,3132,3137,oxygen,TREATMENT
+2,3149,3170,significant ecchymoses,PROBLEM
+2,3192,3200,Ileostomy,TREATMENT
+2,3220,3247,greenish black liquid output,PROBLEM
+2,3250,3270,Midline surgical scar,PROBLEM
+2,3294,3303,a dressing,TREATMENT
+2,3337,3344,bleeding,PROBLEM
+2,3377,3392,peripheral edema,PROBLEM
+2,3418,3427,LYMPHATICS,PROBLEM
+2,3433,3442,adenopathy,PROBLEM
+2,3501,3524,Markedly elevated PT/INR,PROBLEM
+2,3543,3550,Coumadin,TREATMENT
+2,3570,3578,vitamin K,TREATMENT
+2,3594,3607,mixing studies,TEST
+2,3627,3636,deficiency,PROBLEM
+2,3661,3675,poor production,PROBLEM
+2,3683,3699,her elevated LFTs,PROBLEM
+2,3702,3718,decreased albumin,PROBLEM
+2,3725,3745,decreased pre-albumin,PROBLEM
+2,3776,3787,an inhibitor,TREATMENT
+2,3813,3833,an acquired inhibitor,TREATMENT
+2,3862,3876,an elevated PTT,PROBLEM
+2,3886,3887,PT,PROBLEM
+2,3903,3907,a PTT,TEST
+2,3919,3932,mixing studies,TEST
+2,3984,4004,a lupus anticoagulant,TREATMENT
+2,4041,4057,bleeding symptoms,PROBLEM
+2,4112,4126,anticoagulation,TREATMENT
+2,4145,4176,markedly elevated platelet count,PROBLEM
+2,4216,4224,infection,PROBLEM
+2,4240,4272,a new myeloproliferative disorder,PROBLEM
+2,4275,4280,Anemia,PROBLEM
+2,4328,4361,her decreased creatinine clearance,PROBLEM
+2,4377,4398,erythropoietin support,TREATMENT
+2,4409,4422,iron deficient,PROBLEM
+2,4444,4465,her multiple surgeries,TREATMENT
+2,4505,4518,iron deficient,PROBLEM
+2,4603,4617,poor absorption,PROBLEM
+2,4638,4651,iron deficient,PROBLEM
+2,4682,4709,her elevated platelet counts,PROBLEM
+2,4725,4734,a ferritin,TEST
+2,4783,4794,inflammation,PROBLEM
+2,4837,4870,iron supplementation intravenously,TREATMENT
+2,4882,4889,elevated,PROBLEM
+2,4910,4929,a bone marrow biopsy,TEST
+2,4943,4957,her iron stores,PROBLEM
+2,4976,4991,her myelopoiesis,PROBLEM
+2,4999,5035,the markedly elevated platelet counts,PROBLEM
+2,5048,5066,continued treatment,TREATMENT
+2,5083,5096,her infections,PROBLEM
+2,5197,5214,additional surgery,TREATMENT
+2,5258,5276,her elevated PT/INR,PROBLEM
+3,118,129,Mesothelioma,PROBLEM
+3,132,147,pleural effusion,PROBLEM
+3,150,168,atrial fibrillation,PROBLEM
+3,171,176,anemia,PROBLEM
+3,179,185,ascites,PROBLEM
+3,188,204,esophageal reflux,PROBLEM
+3,222,243,deep venous thrombosis,PROBLEM
+3,305,316,Mesothelioma,PROBLEM
+3,340,355,Pleural effusion,PROBLEM
+3,358,376,atrial fibrillation,PROBLEM
+3,379,384,anemia,PROBLEM
+3,387,393,ascites,PROBLEM
+3,396,412,esophageal reflux,PROBLEM
+3,430,451,deep venous thrombosis,PROBLEM
+3,471,485,"August 24, 2007",DATE
+3,488,512,decortication of the lung,TREATMENT
+3,519,532,pleural biopsy,TEST
+3,538,561,transpleural fluoroscopy,TEST
+3,570,584,"August 20, 2007",DATE
+3,587,599,thoracentesis,TREATMENT
+3,608,622,"August 31, 2007",DATE
+3,625,645,Port-A-Cath placement,TREATMENT
+3,687,697,41-year-old,AGE
+3,699,708,Vietnamese,LOCATION
+3,722,742,a nonproductive cough,PROBLEM
+3,780,801,right-sided chest pain,PROBLEM
+3,830,834,fever,PROBLEM
+3,877,888,pericarditis,PROBLEM
+3,894,907,pericardectomy,TREATMENT
+3,912,919,May 2006,DATE
+3,935,939,cough,PROBLEM
+3,946,967,right-sided chest pain,PROBLEM
+3,1005,1015,Chest x-ray,TEST
+3,1026,1053,right-sided pleural effusion,PROBLEM
+3,1080,1093,Pericardectomy,TREATMENT
+3,1099,1110,Pericarditis,PROBLEM
+3,1116,1134,Atrial fibrillation,PROBLEM
+3,1150,1184,intracranial thrombolytic treatment,TREATMENT
+3,1204,1231,Mesenteric venous thrombosis,PROBLEM
+3,1237,1254,Pericardial window,TREATMENT
+3,1260,1274,Cholecystectomy,TREATMENT
+3,1280,1297,Left thoracentesis,TEST
+3,1337,1359,coronary artery disease,PROBLEM
+3,1362,1364,CVA,PROBLEM
+3,1367,1374,diabetes,PROBLEM
+3,1377,1379,CHF,PROBLEM
+3,1384,1385,MI,PROBLEM
+3,1449,1454,cancer,PROBLEM
+3,1507,1520,US Post Office,LOCATION
+3,1609,1616,Coumadin,TREATMENT
+3,1618,1621,1 mg,STRENGTH
+3,1623,1627,daily,FREQUENCY
+3,1635,1637,INR,TEST
+3,1646,1652,Tuesday,DATE
+3,1655,1669,"August 14, 2007",DATE
+3,1676,1682,her INR,TEST
+3,1696,1705,Amiodarone,TREATMENT
+3,1707,1712,100 mg,STRENGTH
+3,1714,1716,p.o,ROUTE
+3,1719,1723,daily,FREQUENCY
+3,1764,1770,systems,TEST
+3,1845,1863,occasional numbness,PROBLEM
+3,1869,1892,tingling of her left arm,PROBLEM
+3,1929,1942,Blood pressure,TEST
+3,1952,1961,heart rate,TEST
+3,1967,1978,respirations,TEST
+3,1984,1994,temperature,TEST
+3,2004,2020,oxygen saturation,TEST
+3,2045,2063,nonproductive cough,PROBLEM
+3,2069,2072,pain,PROBLEM
+3,2079,2086,coughing,PROBLEM
+3,2201,2215,lymphadenopathy,PROBLEM
+3,2221,2226,masses,PROBLEM
+3,2242,2261,Pleural friction rub,PROBLEM
+3,2283,2294,nondistended,PROBLEM
+3,2301,2309,nontender,PROBLEM
+3,2338,2349,organomegaly,PROBLEM
+3,2368,2372,edema,PROBLEM
+3,2378,2385,clubbing,PROBLEM
+3,2391,2398,cyanosis,PROBLEM
+3,2404,2413,tenderness,PROBLEM
+3,2481,2489,breakdown,PROBLEM
+3,2494,2500,lesions,PROBLEM
+3,2506,2511,ulcers,PROBLEM
+3,2545,2558,focal deficits,PROBLEM
+3,2633,2636,Labs,TEST
+3,2697,2726,a right-sided pleural effusion,PROBLEM
+3,2732,2744,thoracentesis,TREATMENT
+3,2749,2754,Monday,DATE
+3,2766,2777,Her Coumadin,TREATMENT
+3,2799,2821,A repeat echocardiogram,TEST
+3,2855,2865,prophylaxis,TREATMENT
+3,2871,2873,DVT,PROBLEM
+3,2880,2886,Lovenox,TREATMENT
+3,2888,2892,40 mg,STRENGTH
+3,2894,2907,subcutaneously,ROUTE
+3,2936,2945,March 2005,DATE
+3,3003,3014,pericarditis,PROBLEM
+3,3040,3057,pericardial window,TREATMENT
+3,3123,3137,mesenteric pain,PROBLEM
+3,3143,3152,thrombosis,PROBLEM
+3,3162,3175,anticoagulated,TREATMENT
+3,3240,3240,Y,NAME
+3,3281,3294,pericardectomy,TREATMENT
+3,3324,3324,Z,NAME
+3,3337,3347,her CT scan,TEST
+3,3354,3363,March 2006,DATE
+3,3374,3391,her pericardectomy,TREATMENT
+3,3408,3433,bilateral plural effusions,PROBLEM
+3,3474,3491,the pericardectomy,TREATMENT
+3,3512,3523,her symptoms,PROBLEM
+3,3576,3585,chest pain,PROBLEM
+3,3605,3630,bilateral pleural effusion,PROBLEM
+3,3666,3680,CT of the chest,TEST
+3,3696,3725,a large mediastinal lymph node,PROBLEM
+3,3740,3752,the pathology,TEST
+3,3768,3785,the pericardectomy,TREATMENT
+3,3790,3799,March 2006,DATE
+3,3826,3837,mesothelioma,PROBLEM
+3,3854,3873,chest tube placement,TREATMENT
+3,3879,3899,drainage of the fluid,PROBLEM
+3,3914,3925,thoracoscopy,TREATMENT
+3,3932,3945,fluid biopsies,TEST
+3,3985,4018,epithelioid malignant mesothelioma,PROBLEM
+3,4055,4062,a PET CT,TEST
+3,4078,4106,extensive uptake in the chest,PROBLEM
+3,4109,4147,bilateral pleural pericardial effusions,PROBLEM
+3,4154,4168,lymphadenopathy,PROBLEM
+3,4184,4195,acidic fluid,PROBLEM
+3,4198,4234,pectoral and intramammary lymph nodes,PROBLEM
+3,4240,4251,uptake in L4,PROBLEM
+3,4258,4260,SUV,TEST
+3,4293,4309,stage III disease,PROBLEM
+3,4312,4336,Her repeat echocardiogram,TEST
+3,4345,4364,an ejection fraction,TEST
+3,4436,4447,chemotherapy,TREATMENT
+3,4452,4468,"September 1, 2007",DATE
+3,4475,4483,cisplatin,TREATMENT
+3,4485,4500,75 mg/centimeter,STRENGTH
+3,4519,4524,109 mg,STRENGTH
+3,4526,4537,IV piggyback,TREATMENT
+3,4539,4550,over 2 hours,DURATION
+3,4555,4571,"September 1, 2007",DATE
+3,4574,4579,Alimta,TREATMENT
+3,4581,4587,500 mg/,STRENGTH
+3,4589,4606,centimeter squared,FORM
+3,4617,4622,730 mg,STRENGTH
+3,4624,4635,IV piggyback,TREATMENT
+3,4637,4651,over 10 minutes,DURATION
+3,4683,4695,a Port-A-Cath,TREATMENT
+3,4709,4724,The chemotherapy,TREATMENT
+3,4814,4821,IV fluid,TREATMENT
+3,4827,4828,IV,TREATMENT
+3,4831,4845,Her Port-A-Cath,TREATMENT
+3,4863,4869,heparin,TREATMENT
+3,4894,4914,DISCHARGE MEDICATIONS,TREATMENT
+3,4917,4922,Zofran,TREATMENT
+3,4925,4933,Phenergan,TREATMENT
+3,4936,4943,Coumadin,TREATMENT
+3,4950,4956,Lovenox,TREATMENT
+3,4963,4969,Vicodin,TREATMENT
+3,5035,5037,XYZ,NAME
+3,5062,5068,her INR,TEST
+3,5073,5079,Tuesday,DATE
+4,68,102,Axillary Dissection & Mass Excision,TREATMENT
+4,117,140,Left axillary dissection,TREATMENT
+4,147,154,incision,PROBLEM
+4,160,167,drainage,TREATMENT
+4,172,189,left axillary mass,PROBLEM
+4,192,219,Right axillary mass excision,TREATMENT
+4,225,232,incision,PROBLEM
+4,238,245,drainage,TREATMENT
+4,248,272,Bilateral axillary masses,PROBLEM
+4,284,310,recurrent Hodgkin's disease,PROBLEM
+4,375,399,Bilateral axillary masses,PROBLEM
+4,411,437,recurrent Hodgkin's disease,PROBLEM
+4,465,489,Bilateral axillary masses,PROBLEM
+4,501,527,recurrent Hodgkin's disease,PROBLEM
+4,554,577,Left axillary dissection,TREATMENT
+4,584,591,incision,PROBLEM
+4,597,604,drainage,TREATMENT
+4,609,626,left axillary mass,PROBLEM
+4,632,659,Right axillary mass excision,TREATMENT
+4,665,672,incision,PROBLEM
+4,678,685,drainage,TREATMENT
+4,700,702,LMA,TREATMENT
+4,716,733,Left axillary mass,PROBLEM
+4,740,744,nodes,PROBLEM
+4,750,768,right axillary mass,PROBLEM
+4,827,837,56-year-old,AGE
+4,888,912,bilateral axillary masses,PROBLEM
+4,920,929,evaluation,TEST
+4,966,990,draining bilateral masses,PROBLEM
+4,997,1009,the left mass,PROBLEM
+4,1053,1061,palpation,TEST
+4,1149,1159,antibiotics,TREATMENT
+4,1205,1222,Hodgkin's lymphoma,PROBLEM
+4,1265,1271,therapy,TREATMENT
+4,1314,1320,disease,PROBLEM
+4,1360,1369,recurrence,PROBLEM
+4,1374,1391,Hodgkin's lymphoma,PROBLEM
+4,1403,1413,exploration,TEST
+4,1419,1426,excision,TREATMENT
+4,1431,1442,these masses,PROBLEM
+4,1497,1509,the procedure,TREATMENT
+4,1567,1576,dissection,TREATMENT
+4,1581,1602,the left axillary mass,PROBLEM
+4,1605,1612,the mass,PROBLEM
+4,1687,1696,an abscess,PROBLEM
+4,1702,1717,loose structures,PROBLEM
+4,1748,1761,frozen section,TEST
+4,1861,1868,lymphoma,PROBLEM
+4,1936,1958,The right axillary mass,PROBLEM
+4,1964,1970,excised,TREATMENT
+4,2009,2032,full axillary dissection,TREATMENT
+4,2094,2115,appropriate anesthesia,TREATMENT
+4,2134,2147,a sterile prep,TREATMENT
+4,2153,2157,drape,TREATMENT
+4,2169,2187,A #10 blade scalpel,TREATMENT
+4,2206,2227,an elliptical incision,PROBLEM
+4,2235,2242,the mass,PROBLEM
+4,2261,2273,this incision,PROBLEM
+4,2313,2320,the mass,PROBLEM
+4,2323,2338,Sharp dissection,TREATMENT
+4,2358,2376,Metzenbaum scissors,TREATMENT
+4,2384,2391,the mass,PROBLEM
+4,2405,2436,the injury to the skin structure,PROBLEM
+4,2459,2466,the mass,PROBLEM
+4,2469,2488,Bovie electrocautery,TREATMENT
+4,2546,2555,hemostasis,TEST
+4,2633,2670,"injury to nerve, vessel or musculature",PROBLEM
+4,2678,2686,this mass,PROBLEM
+4,2759,2767,this mass,PROBLEM
+4,2781,2794,frozen section,TEST
+4,2804,2815,the specimen,TEST
+4,2829,2838,gram stain,TEST
+4,2844,2850,culture,TEST
+4,2858,2868,revaluation,TEST
+4,2873,2891,the incisional site,PROBLEM
+4,2925,2939,Warm lap sponge,TREATMENT
+4,3031,3049,a #10 blade scalpel,TREATMENT
+4,3068,3082,a 4 cm incision,PROBLEM
+4,3090,3097,the mass,PROBLEM
+4,3109,3132,the cutaneous structures,PROBLEM
+4,3148,3172,the erythematous reaction,PROBLEM
+4,3234,3243,gram stain,TEST
+4,3249,3255,culture,TEST
+4,3268,3288,pathologic evaluation,TEST
+4,3350,3369,Bovie electrocautery,TREATMENT
+4,3375,3414,approximation of the deep dermal tissues,TREATMENT
+4,3422,3431,irrigation,TREATMENT
+4,3438,3448,warm saline,TREATMENT
+4,3469,3486,#3-0 Vicryl suture,TREATMENT
+4,3505,3510,Vicryl,TREATMENT
+4,3520,3538,subcuticular stitch,TREATMENT
+4,3541,3552,Steri-Strips,TREATMENT
+4,3620,3633,re-exploration,TEST
+4,3666,3675,a #7 mm JP,TREATMENT
+4,3704,3714,a skin stab,PROBLEM
+4,3728,3739,the incision,PROBLEM
+4,3765,3773,the drain,TREATMENT
+4,3783,3795,this incision,PROBLEM
+4,3821,3837,the incision site,PROBLEM
+4,3849,3888,drainage of the axillary potential space,PROBLEM
+4,3891,3930,Approximation of the deep dermal tissues,TREATMENT
+4,3952,3962,#3-0 Vicryl,TREATMENT
+4,4009,4014,Vicryl,TREATMENT
+4,4053,4064,Steri-Strips,TREATMENT
+4,4070,4086,sterile dressings,TREATMENT
+4,4102,4108,JP bulb,TREATMENT
+4,4129,4135,suction,TREATMENT
+4,4141,4157,sterile dressings,TREATMENT
+4,4210,4222,the procedure,TREATMENT
+4,4355,4368,pain tolerance,PROBLEM
+4,4375,4381,Vicodin,TREATMENT
+4,4383,4385,1-2,DOSAGE
+4,4417,4420,pain,PROBLEM
+4,4438,4455,Keflex antibiotics,TREATMENT
+4,4463,4480,gram stain culture,TEST
+5,100,111,Leukocytosis,PROBLEM
+5,114,141,acute deep venous thrombosis,PROBLEM
+5,171,198,bilateral pulmonary embolism,PROBLEM
+5,204,222,intravenous heparin,TREATMENT
+5,241,259,acute renal failure,PROBLEM
+5,265,274,evaluation,TEST
+5,340,367,Acute deep venous thrombosis,PROBLEM
+5,397,424,bilateral pulmonary embolism,PROBLEM
+5,430,448,intravenous heparin,TREATMENT
+5,467,485,acute renal failure,PROBLEM
+5,491,500,evaluation,TEST
+5,553,563,36-year-old,AGE
+5,661,680,sales representative,PROFESSION
+5,770,794,acute shortness of breath,PROBLEM
+5,815,821,syncope,PROBLEM
+5,882,891,A V/Q scan,TEST
+5,902,937,multiple pulmonary perfusion defects,PROBLEM
+5,955,989,high probability pulmonary embolism,PROBLEM
+5,992,1036,A Doppler venous study of the lower extremity,TEST
+5,1052,1095,nonocclusive right popliteal vein thrombosis,PROBLEM
+5,1098,1127,A CT of the abdomen and pelvis,TEST
+5,1274,1286,renal infarct,PROBLEM
+5,1289,1315,Renal function on admission,TEST
+5,1351,1371,serial renal function,TEST
+5,1380,1407,rapid increase in creatinine,PROBLEM
+5,1436,1454,intravenous heparin,TREATMENT
+5,1460,1471,hemodialysis,TREATMENT
+5,1559,1579,hypercoagulable state,PROBLEM
+5,1601,1627,any thrombotic complication,PROBLEM
+5,1640,1679,any recent injury to his lower extremity,PROBLEM
+5,1700,1712,any calf pain,PROBLEM
+5,1717,1724,swelling,PROBLEM
+5,1942,1966,hypercoagulable condition,PROBLEM
+5,1982,1986,Advil,TREATMENT
+5,1988,1992,p.r.n,FREQUENCY
+5,2067,2086,sudden onset dyspnea,PROBLEM
+5,2133,2139,syncope,PROBLEM
+5,2152,2165,any hemoptysis,PROBLEM
+5,2178,2194,any calf swelling,PROBLEM
+5,2199,2202,pain,PROBLEM
+5,2409,2425,Sclerae anicteric,PROBLEM
+5,2477,2486,adenopathy,PROBLEM
+5,2491,2501,thyromegaly,PROBLEM
+5,2507,2531,jugular venous distention,PROBLEM
+5,2587,2591,Obese,PROBLEM
+5,2621,2633,calf swelling,PROBLEM
+5,2638,2652,calf tenderness,PROBLEM
+5,2676,2684,petechiae,PROBLEM
+5,2689,2698,ecchymosis,PROBLEM
+5,2744,2754,Blood count,TEST
+5,2772,2784,a white count,TEST
+5,2795,2804,hemoglobin,TEST
+5,2822,2831,hematocrit,TEST
+5,2840,2842,MCV,TEST
+5,2852,2865,platelet count,TEST
+5,2898,2910,Thyroid study,TEST
+5,2921,2925,a TSH,TEST
+5,2935,2954,Prothrombin time/INR,TEST
+5,2961,2987,partial thromboplastin time,TEST
+5,3019,3021,BUN,TEST
+5,3030,3039,creatinine,TEST
+5,3046,3059,Echocardiogram,TEST
+5,3070,3097,left ventricular hypertrophy,PROBLEM
+5,3104,3120,ejection fraction,TEST
+5,3133,3151,intramural thrombus,PROBLEM
+5,3175,3202,Bilateral pulmonary embolism,PROBLEM
+5,3226,3258,emboli from right lower extremity,PROBLEM
+5,3264,3282,intravenous heparin,TREATMENT
+5,3294,3325,hereditary hypercoagulable state,PROBLEM
+5,3331,3342,Leukocytosis,PROBLEM
+5,3357,3374,leukemoid reaction,PROBLEM
+5,3389,3429,acute pulmonary embolism/renal infarction,PROBLEM
+5,3450,3476,myeloproliferative disorder,PROBLEM
+5,3482,3500,Acute renal failure,PROBLEM
+5,3515,3544,embolic right renal infarction,PROBLEM
+5,3550,3556,Obesity,PROBLEM
+5,3608,3630,hypercoagulable studies,TEST
+5,3681,3702,a hereditary component,PROBLEM
+5,3742,3760,intravenous heparin,TREATMENT
+5,3766,3796,subsequent oral anticoagulation,TREATMENT
+5,3803,3810,Coumadin,TREATMENT
+5,3824,3847,worsening renal function,PROBLEM
+5,3859,3880,temporary hemodialysis,TREATMENT
+6,68,87,Mantle Cell Lymphoma,PROBLEM
+6,104,114,61-year-old,AGE
+6,147,166,mantle cell lymphoma,PROBLEM
+6,180,200,autologous transplant,TREATMENT
+6,207,218,BEAM regimen,TREATMENT
+6,232,238,relapse,PROBLEM
+6,241,282,Allogeneic peripheral stem cell transplant,TREATMENT
+6,425,435,61-year-old,AGE
+6,468,487,mantle cell lymphoma,PROBLEM
+6,503,506,2001,DATE
+6,521,541,autologous transplant,TREATMENT
+6,548,559,BEAM regimen,TREATMENT
+6,564,568,04/02,DATE
+6,582,588,relapse,PROBLEM
+6,594,635,Allogeneic peripheral stem cell transplant,TREATMENT
+6,717,741,Graft versus host disease,PROBLEM
+6,794,810,immunosuppression,TREATMENT
+6,816,823,Diabetes,PROBLEM
+6,829,844,Bipolar disorder,PROBLEM
+6,850,869,Chronic muscle aches,PROBLEM
+6,875,903,Chronic lower extremity edema,PROBLEM
+6,1059,1079,all immunosuppression,TREATMENT
+6,1095,1111,mild chronic GVHD,PROBLEM
+6,1139,1149,any therapy,TREATMENT
+6,1155,1165,the disease,PROBLEM
+6,1267,1278,hematochezia,PROBLEM
+6,1326,1353,an upper and lower endoscopy,TEST
+6,1371,1376,ulcers,PROBLEM
+6,1381,1395,any abnormality,PROBLEM
+6,1408,1418,Some polyps,PROBLEM
+6,1464,1483,mild iron deficiency,PROBLEM
+6,1496,1503,fatigued,PROBLEM
+6,1590,1594,Paxil,TREATMENT
+6,1596,1600,40 mg,STRENGTH
+6,1602,1611,once daily,FREQUENCY
+6,1617,1622,Cozaar,TREATMENT
+6,1628,1632,Xanax,TREATMENT
+6,1634,1637,1 mg,STRENGTH
+6,1639,1654,four times a day,FREQUENCY
+6,1660,1665,Prozac,TREATMENT
+6,1667,1671,20 mg,STRENGTH
+6,1673,1677,a day,FREQUENCY
+6,1683,1687,Lasix,TREATMENT
+6,1689,1693,40 mg,STRENGTH
+6,1695,1699,a day,FREQUENCY
+6,1705,1713,Potassium,TREATMENT
+6,1715,1720,10 mEq,STRENGTH
+6,1722,1726,a day,FREQUENCY
+6,1732,1738,Mirapex,TREATMENT
+6,1740,1742,two,DOSAGE
+6,1744,1750,tablets,FORM
+6,1752,1762,every night,FREQUENCY
+6,1768,1774,Allegra,TREATMENT
+6,1776,1780,60 mg,STRENGTH
+6,1782,1792,twice a day,FREQUENCY
+6,1798,1806,Avandamet,TREATMENT
+6,1808,1816,4/1000 mg,STRENGTH
+6,1818,1822,daily,FREQUENCY
+6,1829,1834,Nexium,TREATMENT
+6,1836,1840,20 mg,STRENGTH
+6,1842,1846,a day,FREQUENCY
+6,1853,1859,NovoLog,TREATMENT
+6,1861,1865,25/50,STRENGTH
+6,1887,1893,Fatigue,PROBLEM
+6,1896,1921,occasional rectal bleeding,PROBLEM
+6,1928,1934,obesity,PROBLEM
+6,2055,2065,temperature,TEST
+6,2073,2086,blood pressure,TEST
+6,2096,2100,pulse,TEST
+6,2110,2121,respirations,TEST
+6,2150,2158,mucositis,PROBLEM
+6,2170,2174,nodes,PROBLEM
+6,2177,2182,AXILLA,DRUG
+6,2188,2192,nodes,PROBLEM
+6,2250,2256,murmurs,PROBLEM
+6,2271,2285,palpable masses,PROBLEM
+6,2288,2301,Morbid obesity,PROBLEM
+6,2317,2342,Mild lower extremity edema,PROBLEM
+6,2351,2362,Mild dryness,PROBLEM
+6,2403,2413,White count,TEST
+6,2420,2429,hemoglobin,TEST
+6,2437,2450,platelet count,TEST
+6,2461,2466,sodium,TEST
+6,2473,2481,potassium,TEST
+6,2488,2495,chloride,TEST
+6,2502,2512,bicarbonate,TEST
+6,2518,2520,BUN,TEST
+6,2530,2539,creatinine,TEST
+6,2579,2581,AST,TEST
+6,2591,2593,ALT,TEST
+6,2640,2659,mantle cell lymphoma,PROBLEM
+6,2685,2698,allotransplant,TREATMENT
+6,2727,2733,disease,PROBLEM
+6,2813,2816,scan,TEST
+6,2832,2841,chimerisms,PROBLEM
+6,2879,2893,slightly anemic,PROBLEM
+6,2903,2916,iron deficient,PROBLEM
+6,2930,2954,recurrent rectal bleeding,PROBLEM
+6,2976,2987,multivitamin,TREATMENT
+6,2994,2997,iron,TREATMENT
+6,3022,3031,the anemia,PROBLEM
+6,3047,3062,the hematochezia,PROBLEM
+6,3072,3083,an endoscopy,TEST
+6,3114,3135,the previous endoscopy,TEST
+6,3161,3166,polyps,PROBLEM
+6,3197,3201,graft,TREATMENT
+6,3210,3221,host disease,PROBLEM
+6,3237,3247,the fatigue,PROBLEM
+6,3286,3312,increase his activity level,PROBLEM
+6,3390,3401,his diabetes,PROBLEM
+6,3442,3450,any fever,PROBLEM
+6,3478,3486,infection,PROBLEM
+7,68,95,Parathyroid Adenoma Excision,PROBLEM
+7,110,117,Excision,TREATMENT
+7,122,155,right superior parathyroid adenoma,PROBLEM
+7,166,191,sestamibi parathyroid scan,TEST
+7,197,209,an ultrasound,TEST
+7,274,307,Right superior parathyroid adenoma,PROBLEM
+7,335,368,Right superior parathyroid adenoma,PROBLEM
+7,382,389,Excision,TREATMENT
+7,394,427,right superior parathyroid adenoma,PROBLEM
+7,453,464,1% Xylocaine,TREATMENT
+7,470,487,anesthesia standby,TREATMENT
+7,494,501,sedation,TREATMENT
+7,527,537,80-year-old,AGE
+7,553,570,some mild dementia,PROBLEM
+7,590,596,Aricept,TREATMENT
+7,637,652,strange thoughts,PROBLEM
+7,658,671,hallucinations,PROBLEM
+7,694,706,hypercalcemic,PROBLEM
+7,709,718,Intact PTH,TEST
+7,724,738,mildly elevated,PROBLEM
+7,741,768,A sestamibi parathyroid scan,TEST
+7,774,786,an ultrasound,TEST
+7,807,842,a right superior parathyroid adenoma,PROBLEM
+7,994,1010,nursing personnel,PROFESSION
+7,1078,1091,operative site,PROBLEM
+7,1163,1176,the ultrasound,TEST
+7,1195,1201,sedated,TREATMENT
+7,1204,1215,A small roll,TREATMENT
+7,1252,1282,moderately hyperextend the neck,PROBLEM
+7,1311,1328,a foam head cradle,TREATMENT
+7,1368,1380,chlorhexidine,TREATMENT
+7,1400,1413,sterile drapes,TREATMENT
+7,1422,1433,infiltration,PROBLEM
+7,1440,1451,1% Xylocaine,TREATMENT
+7,1458,1468,epinephrine,TREATMENT
+7,1476,1495,the planned incision,PROBLEM
+7,1498,1518,a transverse incision,PROBLEM
+7,1721,1738,4-0 silk ligatures,TREATMENT
+7,1741,1767,Superior and inferior flaps,TREATMENT
+7,1816,1829,electrocautery,TREATMENT
+7,1835,1850,blunt dissection,TREATMENT
+7,2027,2037,the cautery,TREATMENT
+7,2090,2107,4-0 silk ligatures,TREATMENT
+7,2137,2152,rotated leftward,PROBLEM
+7,2210,2262,a right superior parathyroid adenoma of moderate size,PROBLEM
+7,2302,2312,its pedicle,TREATMENT
+7,2331,2345,small Hemoclips,TREATMENT
+7,2402,2407,weight,TEST
+7,2413,2426,frozen section,TEST
+7,2440,2445,960 mg,STRENGTH
+7,2454,2467,frozen section,TREATMENT
+7,2489,2509,a parathyroid adenoma,PROBLEM
+7,2521,2533,the procedure,TREATMENT
+7,2536,2560,a peripheral blood sample,TEST
+7,2594,2618,a purple top tube labeled,TREATMENT
+7,2621,2632,pre-excision,TREATMENT
+7,2727,2733,removal,TREATMENT
+7,2738,2761,this parathyroid adenoma,PROBLEM
+7,2801,2805,blood,PROBLEM
+7,2927,2945,hyperparathyroidism,PROBLEM
+7,2950,2956,removal,TREATMENT
+7,2961,2984,this parathyroid adenoma,PROBLEM
+7,3085,3097,the procedure,TREATMENT
+7,3107,3120,monitoring PTH,TEST
+7,3151,3156,saline,TREATMENT
+7,3162,3171,hemostasis,TREATMENT
+7,3260,3269,4-0 Vicryl,TREATMENT
+7,3313,3322,4-0 Vicryl,TREATMENT
+7,3329,3336,the skin,TREATMENT
+7,3354,3378,subcuticular 5-0 Monocryl,TREATMENT
+7,3384,3392,Dermabond,TREATMENT
+7,3494,3506,the procedure,TREATMENT
+8,68,87,Non-Hodgkin lymphoma,PROBLEM
+8,111,143,Follicular non-Hodgkin's lymphoma,PROBLEM
+8,146,206,Biopsy of a left posterior auricular lymph node and pathology,TEST
+8,215,247,follicular non-Hodgkin's lymphoma,PROBLEM
+8,259,268,six cycles,DURATION
+8,273,289,CHOP chemotherapy,TREATMENT
+8,347,379,Follicular non-Hodgkin's lymphoma,PROBLEM
+8,440,441,69,AGE
+8,480,502,his follicular lymphoma,PROBLEM
+8,528,543,February of 1988,DATE
+8,552,559,a biopsy,TEST
+8,564,600,a left posterior auricular lymph node,TEST
+8,606,614,pathology,TEST
+8,623,655,follicular non-Hodgkin's lymphoma,PROBLEM
+8,663,670,03/29/88,DATE
+8,675,682,08/02/88,DATE
+8,697,706,six cycles,DURATION
+8,711,727,CHOP chemotherapy,TREATMENT
+8,739,749,his CT scan,TEST
+8,758,788,retroperitoneal lymphadenopathy,PROBLEM
+8,806,813,04/02/90,DATE
+8,818,825,08/20/90,DATE
+8,840,851,seven cycles,DURATION
+8,856,858,CVP,TREATMENT
+8,890,896,m-BACOD,TREATMENT
+8,916,938,radiation to his pelvis,TREATMENT
+8,944,951,03/21/01,DATE
+8,961,994,a right cervical lymph node biopsy,TEST
+8,1016,1034,follicular lymphoma,PROBLEM
+8,1037,1060,His most recent PET scan,TEST
+8,1068,1075,12/31/08,DATE
+8,1098,1168,previously described hypermetabolic lymph nodes in the right lower neck,PROBLEM
+8,1274,1278,fever,PROBLEM
+8,1281,1286,chills,PROBLEM
+8,1291,1302,night sweats,PROBLEM
+8,1308,1322,lymphadenopathy,PROBLEM
+8,1328,1333,nausea,PROBLEM
+8,1338,1345,vomiting,PROBLEM
+8,1351,1383,change in bowel or bladder habits,PROBLEM
+8,1386,1404,CURRENT MEDICATIONS,TREATMENT
+8,1407,1412,Avelox,TREATMENT
+8,1414,1419,400 mg,STRENGTH
+8,1421,1423,q.d,FREQUENCY
+8,1434,1443,cefuroxime,TREATMENT
+8,1445,1450,200 mg,STRENGTH
+8,1452,1454,q.d,FREQUENCY
+8,1484,1494,doxycycline,TREATMENT
+8,1496,1501,100 mg,STRENGTH
+8,1503,1505,q.d,FREQUENCY
+8,1509,1516,Coumadin,TREATMENT
+8,1518,1521,5 mg,STRENGTH
+8,1526,1531,Monday,DATE
+8,1537,1542,2.5 mg,STRENGTH
+8,1563,1573,dicyclomine,TREATMENT
+8,1575,1579,10 mg,STRENGTH
+8,1581,1583,q.d,FREQUENCY
+8,1587,1591,Coreg,TREATMENT
+8,1593,1599,6.25 mg,STRENGTH
+8,1601,1605,b.i.d,FREQUENCY
+8,1609,1615,Vasotec,TREATMENT
+8,1617,1622,2.5 mg,STRENGTH
+8,1624,1628,b.i.d,FREQUENCY
+8,1632,1637,Zantac,TREATMENT
+8,1639,1644,150 mg,STRENGTH
+8,1646,1648,q.d,FREQUENCY
+8,1652,1661,Claritin D,TREATMENT
+8,1663,1665,q.d,FREQUENCY
+8,1669,1675,Centrum,DRUG
+8,1677,1679,q.d,FREQUENCY
+8,1683,1689,calcium,TREATMENT
+8,1691,1693,q.d,FREQUENCY
+8,1697,1703,omega-3,TREATMENT
+8,1705,1709,b.i.d,FREQUENCY
+8,1713,1721,Metamucil,TREATMENT
+8,1723,1725,q.d,FREQUENCY
+8,1733,1737,Lasix,TREATMENT
+8,1739,1743,40 mg,STRENGTH
+8,1745,1749,t.i.d,FREQUENCY
+8,1766,1785,known drug allergies,PROBLEM
+8,1875,1927,chronic lymphedema of the bilateral lower extremities,PROBLEM
+8,1942,1961,his pelvic radiation,PROBLEM
+8,1974,2003,bilateral ureteral obstruction,PROBLEM
+8,2024,2040,a stent placement,TREATMENT
+8,2043,2057,The obstruction,PROBLEM
+8,2076,2095,his pelvic radiation,PROBLEM
+8,2112,2135,congestive heart failure,PROBLEM
+8,2152,2171,schwannoma resection,TREATMENT
+8,2208,2211,1991,DATE
+8,2224,2268,chronic obstruction of his inferior vena cava,PROBLEM
+8,2274,2309,Recurrent lower extremity cellulitis,PROBLEM
+8,2398,2415,Methodist minister,PROFESSION
+8,2492,2503,solid tumors,PROBLEM
+8,2508,2531,hematologic malignancies,PROBLEM
+8,2568,2573,Height,TEST
+8,2583,2588,weight,TEST
+8,2599,2612,blood pressure,TEST
+8,2622,2626,pulse,TEST
+8,2636,2646,temperature,TEST
+8,2678,2689,noncachectic,PROBLEM
+8,2729,2732,EYES,PROBLEM
+8,2735,2743,Anicteric,PROBLEM
+8,2754,2774,oropharyngeal lesions,PROBLEM
+8,2787,2840,"cervical, supraclavicular, or axillary lymphadenopathy",PROBLEM
+8,2869,2875,murmurs,PROBLEM
+8,2878,2881,rubs,PROBLEM
+8,2887,2893,gallops,PROBLEM
+8,2912,2923,auscultation,TEST
+8,2958,2969,nondistended,PROBLEM
+8,2996,3013,hepatosplenomegaly,PROBLEM
+8,3021,3026,Reveal,TREATMENT
+8,3031,3035,edema,PROBLEM
+8,3055,3087,Follicular non-Hodgkin's lymphoma,PROBLEM
+8,3090,3096,His CBC,TEST
+8,3102,3104,CMP,TEST
+8,3125,3127,LDH,TEST
+8,3216,3237,his laboratory studies,TEST
+8,3247,3258,his PET scan,TEST
+9,68,89,Iron deficiency anemia,PROBLEM
+9,104,125,Iron deficiency anemia,PROBLEM
+9,142,161,a bone marrow biopsy,TEST
+9,206,229,trilineage hematopoiesis,PROBLEM
+9,287,308,Iron deficiency anemia,PROBLEM
+9,363,373,19-year-old,AGE
+9,417,438,iron deficiency anemia,PROBLEM
+9,494,513,a bone marrow biopsy,TEST
+9,518,525,07/21/10,DATE
+9,571,594,trilineage hematopoiesis,PROBLEM
+9,600,607,07/22/10,DATE
+9,610,623,her hemoglobin,TEST
+9,666,672,2 units,DOSAGE
+9,677,698,packed red blood cells,TREATMENT
+9,701,715,Her iron levels,TEST
+9,728,750,her percent transferrin,TEST
+9,784,792,hemolysis,PROBLEM
+9,863,880,excessive bleeding,PROBLEM
+9,922,927,an IUD,TREATMENT
+9,998,1013,iron supplements,TREATMENT
+9,1031,1036,fevers,PROBLEM
+9,1039,1044,chills,PROBLEM
+9,1050,1061,night sweats,PROBLEM
+9,1067,1081,lymphadenopathy,PROBLEM
+9,1087,1092,nausea,PROBLEM
+9,1097,1104,vomiting,PROBLEM
+9,1110,1142,change in bowel or bladder habits,PROBLEM
+9,1169,1174,melena,PROBLEM
+9,1179,1190,hematochezia,PROBLEM
+9,1214,1229,Iron supplements,TREATMENT
+9,1235,1242,Levaquin,TREATMENT
+9,1256,1265,Penicillin,TREATMENT
+9,1437,1442,an IUD,TREATMENT
+9,1448,1460,contraception,TREATMENT
+9,1595,1608,stomach cancer,PROBLEM
+9,1634,1657,hematologic malignancies,PROBLEM
+9,1697,1708,noncachectic,PROBLEM
+9,1748,1751,EYES,PROBLEM
+9,1754,1762,Anicteric,PROBLEM
+9,1773,1793,oropharyngeal lesions,PROBLEM
+9,1806,1859,"cervical, supraclavicular, or axillary lymphadenopathy",PROBLEM
+9,1888,1894,murmurs,PROBLEM
+9,1897,1900,rubs,PROBLEM
+9,1906,1912,gallops,PROBLEM
+9,1931,1942,auscultation,TEST
+9,1977,1988,nondistended,PROBLEM
+9,2015,2032,hepatosplenomegaly,PROBLEM
+9,2040,2045,Reveal,TREATMENT
+9,2050,2054,edema,PROBLEM
+9,2074,2095,Iron deficiency anemia,PROBLEM
+9,2144,2149,an EGD,TEST
+9,2155,2166,a colonscopy,TEST
+9,2195,2210,her iron studies,TEST
+9,2221,2225,a CBC,TEST
+9,2256,2265,hemoglobin,TEST
+9,2276,2282,Her MCV,TEST
+9,2288,2296,still low,PROBLEM
+9,2310,2333,the mean cell hemoglobin,TEST
+9,2372,2398,her fecal occult blood test,TEST
+9,2419,2437,her low iron levels,PROBLEM
+9,2491,2499,it orally,TREATMENT
+9,2525,2550,intravenous iron infusions,TREATMENT
+9,2623,2640,the iron infusions,TREATMENT
+10,68,73,Biopsy,TEST
+10,110,155,Excisional biopsy of right cervical lymph node,TEST
+10,220,243,Cervical lymphadenopathy,PROBLEM
+10,271,294,Cervical lymphadenopathy,PROBLEM
+10,308,353,Excisional biopsy of right cervical lymph node,TEST
+10,368,398,General endotracheal anesthesia,TREATMENT
+10,411,435,Right cervical lymph node,PROBLEM
+10,438,440,EBL,TEST
+10,481,507,Enlarged level 2 lymph node,PROBLEM
+10,549,570,pathologic examination,TEST
+10,693,703,43-year-old,AGE
+10,743,777,persistent cervical lymphadenopathy,PROBLEM
+10,803,809,painful,PROBLEM
+10,814,835,palpation on the right,TEST
+10,849,865,multiple CT scans,TEST
+10,878,883,an FNA,TEST
+10,943,949,surgery,TREATMENT
+10,1040,1092,an excisional biopsy of the right cervical lymph node,TEST
+10,1221,1251,general endotracheal anesthesia,TREATMENT
+10,1272,1289,prepped and draped,TREATMENT
+10,1331,1339,palpation,TEST
+10,1351,1389,an enlarged level 2 cervical lymph node,PROBLEM
+10,1392,1417,A 3-cm horizontal incision,PROBLEM
+10,1450,1459,Dissection,TREATMENT
+10,1531,1553,The enlarged lymph node,PROBLEM
+10,1657,1677,touch prep evaluation,TEST
+10,1711,1740,any other enlarged lymph nodes,PROBLEM
+10,1769,1778,hemostasis,TREATMENT
+10,1798,1811,electrocautery,TREATMENT
+10,1814,1841,A quarter-inch Penrose drain,TREATMENT
+10,1857,1865,the wound,PROBLEM
+10,1868,1876,The wound,PROBLEM
+10,1929,1942,Vicryl sutures,TREATMENT
+10,1948,1961,a deep closure,TREATMENT
+10,1975,2015,a running 4-0 Prolene subcuticular suture,TREATMENT
+10,2018,2025,Mastisol,TREATMENT
+10,2031,2041,Steri-Strip,TREATMENT
+10,2060,2071,the incision,PROBLEM
+10,2078,2092,sterile bandage,TREATMENT
+10,2129,2142,this procedure,TREATMENT
+10,2175,2187,complications,PROBLEM
+10,2306,2322,the Penrose drain,TREATMENT
